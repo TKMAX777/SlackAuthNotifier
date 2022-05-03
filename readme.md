@@ -1,16 +1,13 @@
 # Slack Auth Notifier
 
-
-
+<br><br><br><br>
 
 **This repository has been transferred under kmc-jp.**
 
 [kmc-jp/SlackAuthNotifier](https://github.com/kmc-jp/SlackAuthNotifier)
 
 
-
-
-
+<br><br><br><br>
 
 
 ## About
